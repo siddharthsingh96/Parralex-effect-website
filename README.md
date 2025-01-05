@@ -1,2 +1,14 @@
 # Parralex-effect-website
-Parallax Effect Website showcases a stunning scrolling effect using only HTML and CSS. Built while learning from Love Babbar, it features layered content, smooth animations, and responsive design. This lightweight project demonstrates creative front-end techniques for dynamic and interactive web experiences.
+This project demonstrates a visually appealing parallax scrolling effect, built entirely using HTML and CSS. The website showcases smooth scrolling animations and layered content to create a dynamic and immersive user experience.
+
+Features
+Parallax Scrolling: Layers move at different speeds to create depth and motion.
+Responsive Design: Optimized for various screen sizes.
+Minimalist UI: Clean and user-friendly layout.
+Learning Inspiration
+This project was developed as part of my learning journey with Love Babbar's tutorials, focusing on mastering front-end web development concepts.
+
+Technologies Used
+HTML
+CSS
+Feel free to explore and modify the code to enhance your understanding of parallax effects in web design! 🎨💻
